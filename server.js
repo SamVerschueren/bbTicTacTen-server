@@ -1,4 +1,3 @@
-var http = require('http');
 var net = require('net');
 var Player = require('./player');
 
